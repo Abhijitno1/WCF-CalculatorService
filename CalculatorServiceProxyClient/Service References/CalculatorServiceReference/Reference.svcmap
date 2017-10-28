@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="25622422-deeb-4883-abda-17400f0c3b97" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/CalculatorService/SimpleCalculator/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="abca9f05-d76d-42ec-bb40-c1d4112c29d1" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CalculatorService/SimpleCalculator/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="10125858-453d-4aac-84a7-9bc965cf33ac" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CalculatorService/SimpleCalculator/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="a27729eb-1921-428d-a3f9-9372a227d64e" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CalculatorService/SimpleCalculator/mex" />
+    <MetadataFile FileName="CalculatorService.xsd" MetadataType="Schema" ID="716c73c4-a890-4066-9023-4fe040849f39" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CalculatorService/SimpleCalculator/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
